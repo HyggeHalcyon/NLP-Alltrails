@@ -46,7 +46,7 @@ This project delivers a full-fledged sentiment analysis pipeline on Google Play 
   - Filters out non-informative stopwords to retain emotive content
 - Outputs a `cleaned_content` column for input to sentiment classifiers.
 
-### `04-*sentiment.ipynb` - VADER-Based Sentiment Classification
+### `04-*sentiment.ipynb` - Sentiment Classification
 - TextBlob notebook:
   - Applies TextBlob's polarity and subjectivity scores to each cleaned review
   - Classifies sentiment into positive, neutral, or negative based on polarity thresholds

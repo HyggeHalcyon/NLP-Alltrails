@@ -16,7 +16,7 @@ This project delivers a full-fledged sentiment analysis pipeline on Google Play 
 ```
 
 ---
-## 🛠️ Tools and Libraries Used
+## Tools and Libraries Used
 
 - Python (Jupyter Notebooks)  
 - `google-play-scraper` / `play-scraper`  
